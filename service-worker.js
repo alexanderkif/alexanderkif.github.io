@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.c51e7e7422763396208dd3bb758d49d7.js"
+  "precache-manifest.e9a29e62ead710e677beaa13b7e51aae.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "alexanderkif.github.io"});
