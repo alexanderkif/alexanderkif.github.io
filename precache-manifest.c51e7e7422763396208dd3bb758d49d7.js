@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65b009712ea228bdc95c",
+    "revision": "10b8a76f93c6d1561e02",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,128 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "1e6959a9778d40656217fe5eb7e0b7aa",
-    "url": "img/apple-icon-152x152.1e6959a9.png"
-  },
-  {
-    "revision": "e776afac4479ee2ad8d6a0397661bf09",
-    "url": "img/apple-icon-167x167.e776afac.png"
-  },
-  {
-    "revision": "37ab9045dbdc0edf12ea59b3772e19f9",
-    "url": "img/apple-icon-180x180.37ab9045.png"
-  },
-  {
-    "revision": "cf2a24f36e2078119c668f69c50a9887",
-    "url": "img/calc.cf2a24f3.png"
-  },
-  {
-    "revision": "ec71b68d6b3075031e29cfb2cd273479",
-    "url": "img/flatUI-min.ec71b68d.png"
-  },
-  {
-    "revision": "eb8c2651723211185f6311f32ca09dc5",
-    "url": "img/fnb1-min.eb8c2651.png"
-  },
-  {
-    "revision": "996c079de3fa8a8502682fd48a00cc74",
-    "url": "img/fnb2-min.996c079d.png"
-  },
-  {
-    "revision": "d8e16a9360a9e0b43cc4082982848609",
-    "url": "img/fnb3-min.d8e16a93.png"
-  },
-  {
-    "revision": "3f5de7654b25e5f1640662111d28b490",
-    "url": "img/icon-192x192.3f5de765.png"
-  },
-  {
-    "revision": "15bc9eca3421a7d5a0599a5fb39fe7a8",
-    "url": "img/icon-256x256.15bc9eca.png"
-  },
-  {
-    "revision": "f309ab32f7ba3a2d3f50d05ba3d2aaa2",
-    "url": "img/icon-384x384.f309ab32.png"
-  },
-  {
-    "revision": "c8fdfe20437ccd115ee07cb684685ded",
-    "url": "img/icon-512x512.c8fdfe20.png"
-  },
-  {
-    "revision": "c8cb0f1d49e96f9a3bf3305f9f5b3f26",
-    "url": "img/jstask-min.c8cb0f1d.png"
-  },
-  {
-    "revision": "b2a154865fb3e37c5e50b05de15fb08c",
-    "url": "img/meteo1-min.b2a15486.png"
-  },
-  {
-    "revision": "e9711b792ccfbaf6703da2586268928f",
-    "url": "img/meteo2-min.e9711b79.png"
-  },
-  {
-    "revision": "5a10facbdd2c1577ec919a2b8fb2f3ed",
-    "url": "img/meteo3-min.5a10facb.png"
-  },
-  {
-    "revision": "6624870bb64b1a562e8438e57cdc636a",
-    "url": "img/ms-icon-144x144.6624870b.png"
-  },
-  {
-    "revision": "6dc39baf73728330a2e182e4c720dbb3",
-    "url": "img/slider1.6dc39baf.png"
-  },
-  {
-    "revision": "430f3ac8afd5615ba714a4c41464f2e3",
-    "url": "img/slider2-min.430f3ac8.png"
-  },
-  {
-    "revision": "47b6312a806fe96355f2051c51d9e4f9",
-    "url": "img/st1-min.47b6312a.png"
-  },
-  {
-    "revision": "3e52b90dd2ef5a6abac24746710736d3",
-    "url": "img/st2-min.3e52b90d.png"
-  },
-  {
-    "revision": "a4b1318f7fac1c57263dfbb34b4f3821",
-    "url": "img/st3-min.a4b1318f.png"
-  },
-  {
-    "revision": "ae385caf7934bba8763909e198e9e12b",
-    "url": "img/strah1-min.ae385caf.png"
-  },
-  {
-    "revision": "8dcf027ceda41d6d18b27a52ce98ceff",
-    "url": "img/strah2-min.8dcf027c.png"
-  },
-  {
-    "revision": "15289166eebb9dde9a9f7e994ec7ff2b",
-    "url": "img/strah3-min.15289166.png"
-  },
-  {
-    "revision": "3c887691f9e615710c27a728e2d413af",
-    "url": "img/vscode2-min.3c887691.png"
-  },
-  {
-    "revision": "da2e3e888eca5531bf14ff485a91f4dc",
+    "revision": "d94327cb7d82628e7505b02cd1084eb6",
     "url": "index.html"
   },
   {
-    "revision": "a91c1c79b0e003d2e3b2",
-    "url": "js/2.6f7d28a6.js"
+    "revision": "fdb948521e768e7f6a71",
+    "url": "js/2.571bef34.js"
   },
   {
-    "revision": "c4d4915450ec171fde48",
-    "url": "js/3.99a76020.js"
+    "revision": "152a65b8b4b0c2cf9104",
+    "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "483b7a9a71e73853fce6",
-    "url": "js/4.a79187a1.js"
+    "revision": "2b086ea774e97476267c",
+    "url": "js/4.5f956eea.js"
   },
   {
-    "revision": "65b009712ea228bdc95c",
-    "url": "js/app.1b80495a.js"
+    "revision": "10b8a76f93c6d1561e02",
+    "url": "js/app.f6ce3732.js"
   },
   {
     "revision": "63ecd97d65593e71766f",
