@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "5c445fecd1b3a0f0c5b16c03f1460d25",
+    "revision": "343516592d679bcb68a5bb42996da7dd",
     "url": "statics/app-logo-128x128.png"
   },
   {
@@ -88,19 +88,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/fnb3-min.png"
   },
   {
-    "revision": "ae4c92be0c77665e85fc13fc9435e07b",
+    "revision": "6bc77a96e72ccf53911baeabebe3349f",
     "url": "statics/icons/apple-icon-120x120.png"
   },
   {
-    "revision": "937011e6bba3507503c6737e1bcb4bad",
+    "revision": "f95a57dd860ad2d55a195201c915a55a",
     "url": "statics/icons/apple-icon-152x152.png"
   },
   {
-    "revision": "ac9ffdc11022fac45df6f38b104dd5fc",
+    "revision": "b7d742ba7607d6c475dbd62202db3bcb",
     "url": "statics/icons/apple-icon-167x167.png"
   },
   {
-    "revision": "dd812d933ebd61b4dc1d98a6da1c4ebc",
+    "revision": "48f9a10f734b67e5ce608057a8b994ea",
     "url": "statics/icons/apple-icon-180x180.png"
   },
   {
@@ -108,19 +108,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/facebook.svg"
   },
   {
-    "revision": "db6d2ad876895c25e2232848d504f914",
+    "revision": "95ff674dd1ff431b8bf0cac459730bd1",
     "url": "statics/icons/favicon-16x16.png"
   },
   {
-    "revision": "879364a66bf35c8ec6f3ef0e9b09374c",
+    "revision": "6c1257d820bb70a599a0a6d20db38947",
     "url": "statics/icons/favicon-32x32.png"
   },
   {
-    "revision": "a8a968ed615513e91f39e985fb2b611b",
+    "revision": "3f1cdd0ebc314e7a34c859e450316f45",
     "url": "statics/icons/favicon-96x96.png"
   },
   {
-    "revision": "33d9b858ed32a9728557118f72527d97",
+    "revision": "e40d1c61274571048bd2bae241ede4db",
     "url": "statics/icons/favicon.ico"
   },
   {
@@ -132,23 +132,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/gmail.svg"
   },
   {
-    "revision": "5c445fecd1b3a0f0c5b16c03f1460d25",
+    "revision": "343516592d679bcb68a5bb42996da7dd",
     "url": "statics/icons/icon-128x128.png"
   },
   {
-    "revision": "30a33587123a68a8681d1cc89f35753e",
+    "revision": "688af51f6da8099763467a96ef0e5e6f",
     "url": "statics/icons/icon-192x192.png"
   },
   {
-    "revision": "b9fc5faaaaecee5462b7cf8f3963b97c",
+    "revision": "a912eb40f42967e498959cf7dd29c1f1",
     "url": "statics/icons/icon-256x256.png"
   },
   {
-    "revision": "a033c2e28c1f06b51b638fb423005d65",
+    "revision": "30e5e626f041738dfcbe74b1b8a4864d",
     "url": "statics/icons/icon-384x384.png"
   },
   {
-    "revision": "94989685ba1b3a45099b45927453d780",
+    "revision": "b44ecb7e9c60439663a0e302f164a1aa",
     "url": "statics/icons/icon-512x512.png"
   },
   {
@@ -160,11 +160,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/mail-dot-ru.svg"
   },
   {
-    "revision": "2507d55d0149f156fba9318582b976ea",
+    "revision": "ae3aafa25073c98ca571def5e7abaa3e",
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
-    "revision": "a1a7fa028e6fbb70ea5926f69c0838fd",
+    "revision": "b0f5aa4f8a67a628d96d10e8136f1da4",
     "url": "statics/icons/safari-pinned-tab.svg"
   },
   {
