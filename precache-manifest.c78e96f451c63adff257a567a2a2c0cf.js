@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c4e46133c0780a41ee2",
+    "revision": "d997bddd114bb6681eda",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "d1bfb874f534f7316f5d1720cbac8319",
+    "revision": "ec7aa162c43419f670f5358acd27f7e6",
     "url": "index.html"
   },
   {
-    "revision": "13920dd41173dc7eace6",
-    "url": "js/2.bb695758.js"
+    "revision": "68c513a46c6d22981816",
+    "url": "js/2.e0fe2fc0.js"
   },
   {
     "revision": "152a65b8b4b0c2cf9104",
     "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "623ba067c231b4afdd00",
-    "url": "js/4.2e50a9fe.js"
+    "revision": "15822aa7def2006fd029",
+    "url": "js/4.8383440b.js"
   },
   {
-    "revision": "6c4e46133c0780a41ee2",
-    "url": "js/app.e40745b3.js"
+    "revision": "d997bddd114bb6681eda",
+    "url": "js/app.d392c1dd.js"
   },
   {
     "revision": "63ecd97d65593e71766f",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d8e16a9360a9e0b43cc4082982848609",
     "url": "statics/fnb3-min.png"
+  },
+  {
+    "revision": "e023c1cdb005f13f075e094a6b781f32",
+    "url": "statics/football.png"
   },
   {
     "revision": "a97488575244a09de6391db046bcd77f",
