@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e05837c2d0a303e40b36",
+    "revision": "228053c2979913d5bfd2",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "dc2f3d9ba2269d554126d9b215c3ebc7",
+    "revision": "a6a68cca15f597b42f5dccadaab94585",
     "url": "index.html"
   },
   {
-    "revision": "68c513a46c6d22981816",
-    "url": "js/2.e0fe2fc0.js"
+    "revision": "fd1276bcd5a37ab7bf58",
+    "url": "js/2.15e2cd8b.js"
   },
   {
     "revision": "152a65b8b4b0c2cf9104",
     "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "8677e01d915522c8e031",
-    "url": "js/4.579e9337.js"
+    "revision": "c0b66769899a6bf32fc7",
+    "url": "js/4.073c1144.js"
   },
   {
-    "revision": "e05837c2d0a303e40b36",
-    "url": "js/app.7156cd78.js"
+    "revision": "228053c2979913d5bfd2",
+    "url": "js/app.a346c14c.js"
   },
   {
     "revision": "63ecd97d65593e71766f",
@@ -70,6 +70,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cf2a24f36e2078119c668f69c50a9887",
     "url": "statics/calc.png"
+  },
+  {
+    "revision": "3453e04519b286b5b646ffca469e0867",
+    "url": "statics/dometeo1.png"
+  },
+  {
+    "revision": "eef07d55f3d2996a7a66078d822abd45",
+    "url": "statics/dometeo2.png"
+  },
+  {
+    "revision": "2c11ed12cb29325bd8014f66a26ca3e5",
+    "url": "statics/dometeo3.png"
+  },
+  {
+    "revision": "9165c46bc42374f365b404115cafa9c5",
+    "url": "statics/dometeo4.png"
   },
   {
     "revision": "ec71b68d6b3075031e29cfb2cd273479",
