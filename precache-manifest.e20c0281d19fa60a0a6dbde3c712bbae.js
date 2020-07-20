@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bf50ae37998d90e0137",
+    "revision": "020a6187e95bf4b97ccf",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "bf7288b8204c975155072e2c261759ed",
+    "revision": "01f87530dcc086d0afcfc7fde708b13f",
     "url": "index.html"
   },
   {
-    "revision": "020f607eaef499fc7d21",
-    "url": "js/2.5095c694.js"
+    "revision": "745b62bdc0976fbd8deb",
+    "url": "js/2.52e7f5ab.js"
   },
   {
     "revision": "152a65b8b4b0c2cf9104",
     "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "12a546f0d17c648edf1f",
-    "url": "js/4.43aa8ce6.js"
+    "revision": "2004ddcf18c7b29a75a2",
+    "url": "js/4.b80200f6.js"
   },
   {
-    "revision": "5bf50ae37998d90e0137",
-    "url": "js/app.5f4a0e32.js"
+    "revision": "020a6187e95bf4b97ccf",
+    "url": "js/app.501224e3.js"
   },
   {
     "revision": "63ecd97d65593e71766f",
@@ -66,6 +66,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9fdc61ffe24806a3d37968c31c47c210",
     "url": "statics/app-logo-128x128.png"
+  },
+  {
+    "revision": "1654fcdf7959a926a68d751c3351502c",
+    "url": "statics/buyforme_history.png"
+  },
+  {
+    "revision": "9b6b260c59c7dddf99ea377235a0f906",
+    "url": "statics/buyforme_items.png"
+  },
+  {
+    "revision": "8b011a72a27bfb3dee398e397a11aad7",
+    "url": "statics/buyforme_login.png"
+  },
+  {
+    "revision": "28209cfb4a2c53501192d56f044e1cc9",
+    "url": "statics/buyforme_red-blue.png"
   },
   {
     "revision": "cf2a24f36e2078119c668f69c50a9887",
@@ -198,6 +214,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8cb0f1d49e96f9a3bf3305f9f5b3f26",
     "url": "statics/jstask-min.png"
+  },
+  {
+    "revision": "0076780be6af6ea1be1d1e88b50e7576",
+    "url": "statics/light_menu.png"
+  },
+  {
+    "revision": "1be222a5adffd45689ffadd4621dc1f8",
+    "url": "statics/light_popup.png"
+  },
+  {
+    "revision": "5d3756328bf77c2d0e865b9a7d3c2c5e",
+    "url": "statics/light_select.png"
   },
   {
     "revision": "b2a154865fb3e37c5e50b05de15fb08c",
