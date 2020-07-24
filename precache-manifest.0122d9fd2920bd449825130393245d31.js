@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "020a6187e95bf4b97ccf",
+    "revision": "4d29c6679807ac031d20",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "01f87530dcc086d0afcfc7fde708b13f",
+    "revision": "3052e26c9527d607520af3d40746aa00",
     "url": "index.html"
   },
   {
-    "revision": "745b62bdc0976fbd8deb",
-    "url": "js/2.52e7f5ab.js"
+    "revision": "2b60a24dad3b8a3624e6",
+    "url": "js/2.d759cbb3.js"
   },
   {
     "revision": "152a65b8b4b0c2cf9104",
     "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "2004ddcf18c7b29a75a2",
-    "url": "js/4.b80200f6.js"
+    "revision": "b32b6d41c6930f05d203",
+    "url": "js/4.63b6529b.js"
   },
   {
-    "revision": "020a6187e95bf4b97ccf",
-    "url": "js/app.501224e3.js"
+    "revision": "4d29c6679807ac031d20",
+    "url": "js/app.897fd64a.js"
   },
   {
     "revision": "63ecd97d65593e71766f",
@@ -68,15 +68,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/app-logo-128x128.png"
   },
   {
-    "revision": "1654fcdf7959a926a68d751c3351502c",
-    "url": "statics/buyforme_history.png"
+    "revision": "06596dac12534087d96b2af35bf5a9ea",
+    "url": "statics/buyforme_detail.png"
   },
   {
-    "revision": "9b6b260c59c7dddf99ea377235a0f906",
+    "revision": "fd15e224b8c57134c013cf4ae8a35c28",
+    "url": "statics/buyforme_fab.png"
+  },
+  {
+    "revision": "f4b71fc709fb9e332523573ce852b108",
+    "url": "statics/buyforme_groups.png"
+  },
+  {
+    "revision": "d9f49e2a7000d77c3b2d291162606ca4",
     "url": "statics/buyforme_items.png"
   },
   {
-    "revision": "8b011a72a27bfb3dee398e397a11aad7",
+    "revision": "c92f52a5208f456ab857d9dc09869512",
     "url": "statics/buyforme_login.png"
   },
   {
@@ -270,26 +278,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "15289166eebb9dde9a9f7e994ec7ff2b",
     "url": "statics/strah3-min.png"
-  },
-  {
-    "revision": "35b74b9a034604bc8a7e791c407274b6",
-    "url": "statics/todogroup1.png"
-  },
-  {
-    "revision": "f4456204ac152987482d3c4d37ae78e7",
-    "url": "statics/todogroup2.png"
-  },
-  {
-    "revision": "57847759ded20fb13c82e6ea43bfed52",
-    "url": "statics/todogroup3.png"
-  },
-  {
-    "revision": "f4fa1d2331b401428e9fe3e0ed633114",
-    "url": "statics/todogroup4.png"
-  },
-  {
-    "revision": "166559c2678911e176e0beac4405fa37",
-    "url": "statics/todogroup5.png"
   },
   {
     "revision": "3c887691f9e615710c27a728e2d413af",
