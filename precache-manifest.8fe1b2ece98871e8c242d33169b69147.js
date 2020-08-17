@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d29c6679807ac031d20",
+    "revision": "4f8f6c2f6a8d6952334f",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "3052e26c9527d607520af3d40746aa00",
+    "revision": "3f06be98768f3817e06fdd7bce3d5494",
     "url": "index.html"
   },
   {
-    "revision": "2b60a24dad3b8a3624e6",
-    "url": "js/2.d759cbb3.js"
+    "revision": "23529dcc5da2154b8dc4",
+    "url": "js/2.d82d6a7e.js"
   },
   {
     "revision": "152a65b8b4b0c2cf9104",
     "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "b32b6d41c6930f05d203",
-    "url": "js/4.63b6529b.js"
+    "revision": "d408a03abed57129f164",
+    "url": "js/4.e3cfceb7.js"
   },
   {
-    "revision": "4d29c6679807ac031d20",
-    "url": "js/app.897fd64a.js"
+    "revision": "4f8f6c2f6a8d6952334f",
+    "url": "js/app.f00577d0.js"
   },
   {
     "revision": "63ecd97d65593e71766f",
@@ -94,6 +94,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cf2a24f36e2078119c668f69c50a9887",
     "url": "statics/calc.png"
+  },
+  {
+    "revision": "52e9d4d3f7b4d776983e7c5db55af5d8",
+    "url": "statics/customer1.png"
+  },
+  {
+    "revision": "a3a94253fa2be2548d86f6aec089fdec",
+    "url": "statics/customer2.png"
   },
   {
     "revision": "3453e04519b286b5b646ffca469e0867",
@@ -246,6 +254,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5a10facbdd2c1577ec919a2b8fb2f3ed",
     "url": "statics/meteo3-min.png"
+  },
+  {
+    "revision": "3fd0e195d0ef3937e866e27e3e968ed8",
+    "url": "statics/simon1.png"
+  },
+  {
+    "revision": "e5a221be3022ae6d47dc739c79101ee5",
+    "url": "statics/simon2.png"
   },
   {
     "revision": "6dc39baf73728330a2e182e4c720dbb3",
