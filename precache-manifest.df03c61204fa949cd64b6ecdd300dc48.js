@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af20c1365de85b246c3c",
+    "revision": "9a4344012577067dfd80",
     "url": "css/app.939cd250.css"
   },
   {
@@ -36,28 +36,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "e44095dff38741583c9d75fa47e60904",
+    "revision": "4335f2dfbba27c454f4ed680dd1b4076",
     "url": "index.html"
   },
   {
-    "revision": "cccbcd2f1e211f8d2895",
-    "url": "js/2.615dad7f.js"
+    "revision": "1ef04eeb9499dec4f69b",
+    "url": "js/2.68c4b216.js"
   },
   {
     "revision": "152a65b8b4b0c2cf9104",
     "url": "js/3.ed29b332.js"
   },
   {
-    "revision": "58d9f430c450d7a934d4",
-    "url": "js/4.032cf3a2.js"
+    "revision": "89502080187a1e203603",
+    "url": "js/4.81751456.js"
   },
   {
-    "revision": "af20c1365de85b246c3c",
-    "url": "js/app.f171c092.js"
+    "revision": "9a4344012577067dfd80",
+    "url": "js/app.1a91440d.js"
   },
   {
-    "revision": "63ecd97d65593e71766f",
-    "url": "js/vendor.a6cfc7b1.js"
+    "revision": "cc5466f5a0de51b52b67",
+    "url": "js/vendor.0caefb54.js"
   },
   {
     "revision": "7226e5af8ffa027a0730f46e1d1c07a5",
@@ -254,6 +254,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5a10facbdd2c1577ec919a2b8fb2f3ed",
     "url": "statics/meteo3-min.png"
+  },
+  {
+    "revision": "cb9a8f989fc3b2841b1b43d2af5c7fd8",
+    "url": "statics/sibdev1_1.png"
+  },
+  {
+    "revision": "8fbf217b94ee8f52ccdf99c8e34d3c1a",
+    "url": "statics/sibdev1_2.png"
+  },
+  {
+    "revision": "873778125306391d6b91ae3935878fd9",
+    "url": "statics/sibdev1_3.png"
+  },
+  {
+    "revision": "c31c46a797bf43c686ababb3b51a324e",
+    "url": "statics/sibdev1_4.png"
+  },
+  {
+    "revision": "6872003d1aa5d94c119c137f470099ff",
+    "url": "statics/sibdev1_5.png"
+  },
+  {
+    "revision": "36f04097a1a94ca85fdf02971871cc5b",
+    "url": "statics/sibdev2_1.png"
+  },
+  {
+    "revision": "dc23fcb66b27dbd49cb4ff690c57cce1",
+    "url": "statics/sibdev2_2.png"
+  },
+  {
+    "revision": "d95cfdc842bf1e8c9956a5201c89e4ad",
+    "url": "statics/sibdev2_3.png"
+  },
+  {
+    "revision": "6593764abf7497fddbe5012fe076f657",
+    "url": "statics/sibdev2_4.png"
+  },
+  {
+    "revision": "a915435e37a0b10f2435f232dc20f53e",
+    "url": "statics/sibdev2_5.png"
   },
   {
     "revision": "3fd0e195d0ef3937e866e27e3e968ed8",
